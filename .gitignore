@@ -1,0 +1,4 @@
+.env.production
+.terraform
+*.tfstate
+*.tfstate.backup
