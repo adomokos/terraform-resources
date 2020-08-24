@@ -1,5 +1,7 @@
 # README
 
+Terraform example [from here](https://medium.com/@ajays871/rails-6-deployment-using-terraform-docker-and-aws-codepipeline-a5fb15ede5eb)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
